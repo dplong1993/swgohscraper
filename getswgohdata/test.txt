@@ -1,0 +1,848 @@
+
+LIGHT    SIDE     TOONS
+xXDarkDiscipleXx
+Commander Luke Skywalker: 7
+R2-D2: 7
+Rey (Jedi Training): 7
+Finn: 7
+Barriss Offee: 7
+General Kenobi: 7
+Han Solo: 7
+CT-7567 "Rex": 7
+Poe Dameron: 7
+BB-8: 7
+Grand Master Yoda: 7
+Hera Syndulla: 7
+Sabine Wren: 7
+Ezra Bridger: 7
+Rey (Scavenger): 7
+Wedge Antilles: 7
+Lando Calrissian: 7
+Resistance Trooper: 7
+Qui-Gon Jinn: 7
+Stormtrooper Han: 7
+Chopper: 7
+Jedi Knight Anakin: 7
+Biggs Darklighter: 7
+Scarif Rebel Pathfinder: 7
+Resistance Pilot: 7
+Princess Leia: 7
+Admiral Ackbar: 7
+K-2SO: 7
+Ahsoka Tano: 7
+Obi-Wan Kenobi (Old Ben): 7
+Chirrut Îmwe: 7
+CT-5555 "Fives": 7
+Ahsoka Tano (Fulcrum): 7
+Kanan Jarrus: 7
+Garazeb "Zeb" Orrelios: 7
+Bistan: 7
+Jawa Scavenger: 7
+Luke Skywalker (Farmboy): 7
+Dathcha: 7
+Eeth Koth: 7
+Teebo: 7
+Jawa: 7
+Luminara Unduli: 7
+Jedi Consular: 7
+Chief Nebit: 7
+Cassian Andor: 7
+Jawa Engineer: 7
+Rebel Officer Leia Organa: 7
+Clone Wars Chewbacca: 7
+Enfys Nest: 3
+Jyn Erso: 7
+Veteran Smuggler Han Solo: 7
+Veteran Smuggler Chewbacca: 7
+Mace Windu: 7
+Baze Malbus: 4
+Ima-Gun Di: 7
+Hoth Rebel Scout: 7
+Bodhi Rook: 7
+Ewok Scout: 7
+Clone Sergeant - Phase I: 7
+Captain Han Solo: 5
+Ugnaught: 7
+Ewok Elder: 7
+Hoth Rebel Soldier: 6
+Bastila Shan: 2
+Chief Chirpa: 6
+Jedi Knight Guardian: 6
+Wicket: 5
+Kit Fisto: 4
+Plo Koon: 4
+CT-21-0408 "Echo": 3
+Coruscant Underworld Police: 3
+Aayla Secura: 3
+Lobot: 3
+Pao: 4
+CC-2224 "Cody": 5
+Paploo: 3
+Hermit Yoda: 5
+Young Lando Calrissian: 3
+L3-37: 3
+Logray: 4
+Visas Marr: 4
+Amilyn Holdo: 3
+Rose Tico: 3
+Vandor Chewbacca: 3
+Young Han Solo: 3
+Qi'ra: 3
+T3-M4: 3
+
+
+
+Johnniebee
+Commander Luke Skywalker: 7
+R2-D2: 7
+Han Solo: 7
+Finn: 7
+Rey (Scavenger): 7
+Poe Dameron: 7
+Admiral Ackbar: 7
+Wedge Antilles: 7
+Biggs Darklighter: 7
+BB-8: 7
+Chirrut Îmwe: 7
+Grand Master Yoda: 7
+Lando Calrissian: 7
+Princess Leia: 7
+Jedi Consular: 7
+Mace Windu: 7
+Ezra Bridger: 7
+Obi-Wan Kenobi (Old Ben): 7
+Stormtrooper Han: 7
+Ahsoka Tano: 7
+Chopper: 7
+Resistance Pilot: 7
+Hera Syndulla: 7
+Kanan Jarrus: 7
+Cassian Andor: 7
+Garazeb "Zeb" Orrelios: 7
+Captain Han Solo: 7
+Luke Skywalker (Farmboy): 7
+Dathcha: 7
+Bodhi Rook: 7
+K-2SO: 7
+CT-5555 "Fives": 7
+Luminara Unduli: 7
+Clone Sergeant - Phase I: 7
+Clone Wars Chewbacca: 7
+Resistance Trooper: 7
+Hoth Rebel Scout: 7
+Teebo: 7
+Ewok Scout: 7
+Jawa Scavenger: 7
+Jyn Erso: 6
+Jedi Knight Guardian: 7
+Hoth Rebel Soldier: 6
+Jawa: 6
+Ewok Elder: 5
+Veteran Smuggler Chewbacca: 5
+Veteran Smuggler Han Solo: 5
+Scarif Rebel Pathfinder: 5
+Logray: 4
+Ima-Gun Di: 5
+Wicket: 4
+Baze Malbus: 3
+CT-7567 "Rex": 4
+Paploo: 4
+CC-2224 "Cody": 3
+L3-37: 3
+Plo Koon: 4
+Amilyn Holdo: 4
+Young Lando Calrissian: 3
+Chief Nebit: 3
+Young Han Solo: 3
+Bastila Shan: 3
+Ahsoka Tano (Fulcrum): 3
+Coruscant Underworld Police: 2
+Sabine Wren: 2
+Jolee Bindo: 3
+Eeth Koth: 3
+Visas Marr: 3
+Bistan: 4
+Chief Chirpa: 3
+Vandor Chewbacca: 3
+Rose Tico: 3
+Enfys Nest: 3
+Mission Vao: 3
+Qi'ra: 3
+Ugnaught: 2
+Qui-Gon Jinn: 2
+Zaalbar: 3
+
+
+
+Rwds
+Commander Luke Skywalker: 7
+R2-D2: 7
+Han Solo: 7
+CT-7567 "Rex": 7
+Wedge Antilles: 7
+Ezra Bridger: 7
+Biggs Darklighter: 7
+Stormtrooper Han: 7
+Finn: 7
+CT-5555 "Fives": 7
+Jedi Knight Anakin: 7
+Obi-Wan Kenobi (Old Ben): 7
+Admiral Ackbar: 7
+Jyn Erso: 7
+Grand Master Yoda: 7
+Jedi Consular: 7
+Qui-Gon Jinn: 7
+Princess Leia: 7
+Resistance Pilot: 7
+Rey (Scavenger): 7
+Chopper: 7
+Poe Dameron: 7
+Hera Syndulla: 7
+Garazeb "Zeb" Orrelios: 7
+Kanan Jarrus: 7
+Luke Skywalker (Farmboy): 7
+Luminara Unduli: 7
+Cassian Andor: 7
+K-2SO: 7
+Mace Windu: 7
+Clone Sergeant - Phase I: 7
+Plo Koon: 5
+BB-8: 7
+Eeth Koth: 7
+Resistance Trooper: 6
+CC-2224 "Cody": 6
+Sabine Wren: 2
+Lando Calrissian: 5
+Barriss Offee: 4
+Ewok Scout: 7
+Teebo: 7
+Hoth Rebel Soldier: 3
+Veteran Smuggler Chewbacca: 3
+Jawa Scavenger: 6
+Veteran Smuggler Han Solo: 3
+Clone Wars Chewbacca: 5
+Jedi Knight Guardian: 6
+Ahsoka Tano: 4
+Ahsoka Tano (Fulcrum): 3
+Chief Chirpa: 5
+Dathcha: 4
+Jawa: 5
+Wicket: 4
+Logray: 4
+Paploo: 4
+Baze Malbus: 4
+Scarif Rebel Pathfinder: 4
+Amilyn Holdo: 4
+Ewok Elder: 4
+Hoth Rebel Scout: 4
+Bistan: 3
+Ugnaught: 2
+Visas Marr: 3
+Chief Nebit: 3
+Rose Tico: 3
+Chirrut Îmwe: 4
+Coruscant Underworld Police: 1
+Bodhi Rook: 2
+CT-21-0408 "Echo": 3
+Jolee Bindo: 3
+Bastila Shan: 3
+
+
+
+Dog
+Jolee Bindo: 7
+Rey (Scavenger): 7
+Grand Master Yoda: 7
+Qui-Gon Jinn: 7
+Admiral Ackbar: 7
+Obi-Wan Kenobi (Old Ben): 7
+Stormtrooper Han: 7
+Princess Leia: 7
+Teebo: 7
+BB-8: 7
+CT-7567 "Rex": 7
+Ahsoka Tano: 7
+Ewok Elder: 7
+Barriss Offee: 7
+Wedge Antilles: 7
+Biggs Darklighter: 7
+Luminara Unduli: 7
+Chief Chirpa: 7
+Ewok Scout: 7
+Jawa: 7
+Hoth Rebel Scout: 7
+CT-5555 "Fives": 7
+Jedi Consular: 7
+Kit Fisto: 7
+Clone Wars Chewbacca: 7
+Resistance Pilot: 7
+Jawa Engineer: 5
+Ima-Gun Di: 7
+Mace Windu: 7
+Aayla Secura: 7
+Luke Skywalker (Farmboy): 6
+Lando Calrissian: 7
+Clone Sergeant - Phase I: 7
+Dathcha: 7
+Han Solo: 6
+Jedi Knight Anakin: 6
+Hoth Rebel Soldier: 5
+Plo Koon: 5
+Coruscant Underworld Police: 6
+Resistance Trooper: 6
+Poe Dameron: 5
+CT-21-0408 "Echo": 6
+Lobot: 5
+Eeth Koth: 5
+Jedi Knight Guardian: 5
+R2-D2: 5
+Wicket: 2
+Ugnaught: 4
+Finn: 4
+Bastila Shan: 3
+Mission Vao: 3
+Zaalbar: 3
+Hera Syndulla: 2
+Amilyn Holdo: 2
+
+
+
+Sanis
+Ezra Bridger: 7
+Hera Syndulla: 7
+Chopper: 7
+Garazeb "Zeb" Orrelios: 7
+Kanan Jarrus: 7
+Wedge Antilles: 7
+Jawa Engineer: 7
+Jawa Scavenger: 7
+Chirrut Îmwe: 6
+Chief Nebit: 7
+Admiral Ackbar: 7
+Dathcha: 7
+Jawa: 7
+Baze Malbus: 6
+Stormtrooper Han: 7
+Lando Calrissian: 7
+Biggs Darklighter: 7
+R2-D2: 6
+Sabine Wren: 6
+Princess Leia: 7
+Obi-Wan Kenobi (Old Ben): 7
+Luke Skywalker (Farmboy): 7
+Han Solo: 6
+CT-5555 "Fives": 5
+Clone Sergeant - Phase I: 5
+Teebo: 7
+Luminara Unduli: 5
+Jedi Consular: 4
+Clone Wars Chewbacca: 5
+Qui-Gon Jinn: 4
+Mace Windu: 5
+Aayla Secura: 5
+Resistance Pilot: 4
+Barriss Offee: 4
+Poe Dameron: 5
+Rey (Scavenger): 6
+Jedi Knight Guardian: 4
+Ewok Elder: 4
+Resistance Trooper: 4
+Grand Master Yoda: 5
+Hoth Rebel Soldier: 4
+Ewok Scout: 4
+Ahsoka Tano: 4
+Finn: 4
+Amilyn Holdo: 3
+Rose Tico: 3
+Visas Marr: 3
+Vandor Chewbacca: 3
+Young Han Solo: 3
+Qi'ra: 3
+Enfys Nest: 3
+Young Lando Calrissian: 3
+L3-37: 3
+Jolee Bindo: 3
+Bastila Shan: 3
+Mission Vao: 3
+Zaalbar: 3
+Logray: 2
+Paploo: 2
+Coruscant Underworld Police: 1
+
+
+
+
+DARK     SIDE      TOONS
+xXDarkDiscipleXx
+Wampa: 7
+Emperor Palpatine: 7
+Asajj Ventress: 7
+Mother Talzin: 7
+Grand Admiral Thrawn: 7
+Grand Moff Tarkin: 7
+Darth Vader: 7
+Savage Opress: 7
+Kylo Ren: 7
+Boba Fett: 7
+General Veers: 7
+Darth Maul: 7
+Darth Nihilus: 7
+Talia: 7
+Death Trooper: 7
+Old Daka: 7
+IG-88: 7
+Sith Trooper: 7
+Dengar: 7
+Shoretrooper: 7
+TIE Fighter Pilot: 7
+Colonel Starck: 7
+Greedo: 7
+Bossk: 5
+Geonosian Soldier: 7
+Darth Sidious: 7
+Darth Sion: 5
+Sun Fac: 7
+Captain Phasma: 7
+Snowtrooper: 7
+Nightsister Acolyte: 7
+First Order TIE Pilot: 7
+Director Krennic: 7
+Gar Saxon: 7
+Kylo Ren (Unmasked): 7
+Count Dooku: 7
+Magmatrooper: 7
+Cad Bane: 7
+IG-86 Sentinel Droid: 7
+First Order Stormtrooper: 7
+Sith Assassin: 7
+Nightsister Initiate: 7
+Imperial Probe Droid: 5
+Nightsister Zombie: 6
+First Order Officer: 7
+Royal Guard: 7
+Imperial Super Commando: 4
+Tusken Shaman: 7
+Stormtrooper: 7
+Poggle the Lesser: 7
+HK-47: 7
+IG-100 MagnaGuard: 5
+Geonosian Spy: 4
+Tusken Raider: 4
+Mob Enforcer: 3
+URoRRuR'R'R: 4
+Sith Marauder: 3
+First Order SF TIE Pilot: 2
+Nute Gunray: 4
+First Order Executioner: 2
+Range Trooper: 3
+Nightsister Spirit: 3
+Zam Wesell: 3
+
+
+
+Johnniebee
+General Veers: 7
+Kylo Ren (Unmasked): 7
+Grand Moff Tarkin: 7
+Darth Vader: 7
+Boba Fett: 7
+Emperor Palpatine: 7
+First Order TIE Pilot: 7
+Colonel Starck: 7
+Stormtrooper: 7
+Snowtrooper: 7
+First Order Officer: 7
+Grand Admiral Thrawn: 7
+Kylo Ren: 7
+Captain Phasma: 7
+IG-88: 7
+TIE Fighter Pilot: 7
+Poggle the Lesser: 7
+Magmatrooper: 7
+Greedo: 7
+Royal Guard: 7
+Cad Bane: 7
+Geonosian Soldier: 7
+Zam Wesell: 7
+Old Daka: 7
+Talia: 7
+IG-86 Sentinel Droid: 7
+Nightsister Initiate: 7
+Tusken Raider: 7
+Darth Maul: 6
+First Order Stormtrooper: 5
+Sun Fac: 6
+IG-100 MagnaGuard: 5
+Nightsister Acolyte: 4
+Geonosian Spy: 5
+Darth Sion: 3
+Count Dooku: 5
+Gar Saxon: 3
+Mother Talzin: 3
+Nightsister Zombie: 4
+Asajj Ventress: 3
+Nightsister Spirit: 5
+Savage Opress: 4
+Nute Gunray: 4
+URoRRuR'R'R: 4
+First Order Executioner: 3
+Shoretrooper: 3
+Tusken Shaman: 3
+First Order SF TIE Pilot: 3
+Death Trooper: 2
+Range Trooper: 3
+Mob Enforcer: 2
+Imperial Super Commando: 2
+Sith Assassin: 3
+Bossk: 3
+Sith Marauder: 3
+
+
+
+Rwds
+Grand Admiral Thrawn: 7
+Darth Vader: 7
+Kylo Ren: 7
+Darth Maul: 7
+Grand Moff Tarkin: 7
+Emperor Palpatine: 7
+General Veers: 6
+Kylo Ren (Unmasked): 7
+First Order TIE Pilot: 7
+TIE Fighter Pilot: 7
+Snowtrooper: 7
+Boba Fett: 7
+Darth Sidious: 7
+Stormtrooper: 7
+Colonel Starck: 4
+Darth Nihilus: 6
+Count Dooku: 7
+Death Trooper: 6
+IG-88: 7
+Magmatrooper: 7
+Shoretrooper: 5
+Captain Phasma: 7
+First Order Officer: 7
+Range Trooper: 3
+IG-86 Sentinel Droid: 7
+Darth Sion: 3
+Cad Bane: 6
+General Grievous: 5
+Royal Guard: 6
+Greedo: 6
+Geonosian Soldier: 4
+HK-47: 5
+First Order SF TIE Pilot: 2
+Talia: 5
+Old Daka: 4
+First Order Stormtrooper: 4
+Mother Talzin: 3
+Poggle the Lesser: 5
+Asajj Ventress: 3
+Sun Fac: 4
+Bossk: 3
+Nightsister Zombie: 4
+IG-100 MagnaGuard: 4
+Gar Saxon: 4
+Nightsister Spirit: 4
+Sith Marauder: 3
+Sith Assassin: 3
+Imperial Super Commando: 2
+Mob Enforcer: 2
+Nute Gunray: 4
+First Order Executioner: 2
+Tusken Shaman: 3
+Savage Opress: 3
+
+
+
+Dog
+Kylo Ren (Unmasked): 7
+Captain Phasma: 7
+First Order TIE Pilot: 7
+Geonosian Soldier: 7
+IG-88: 7
+First Order Officer: 7
+HK-47: 7
+IG-86 Sentinel Droid: 7
+Kylo Ren: 7
+Old Daka: 7
+Boba Fett: 7
+Royal Guard: 7
+Poggle the Lesser: 7
+B2 Super Battle Droid: 7
+Emperor Palpatine: 7
+Darth Sidious: 7
+First Order Stormtrooper: 7
+Tusken Raider: 7
+Nightsister Acolyte: 7
+Talia: 7
+Nightsister Initiate: 7
+Count Dooku: 7
+Savage Opress: 7
+Cad Bane: 7
+Grand Moff Tarkin: 7
+Zam Wesell: 7
+Darth Maul: 7
+Snowtrooper: 7
+Darth Vader: 6
+Magmatrooper: 7
+Greedo: 7
+Sun Fac: 7
+Nightsister Zombie: 4
+General Grievous: 6
+Stormtrooper: 5
+Mob Enforcer: 6
+Asajj Ventress: 4
+Nightsister Spirit: 5
+TIE Fighter Pilot: 3
+General Veers: 5
+Nute Gunray: 4
+IG-100 MagnaGuard: 4
+URoRRuR'R'R: 4
+Range Trooper: 3
+Death Trooper: 3
+Dengar: 2
+First Order SF TIE Pilot: 2
+Mother Talzin: 2
+
+
+
+Sanis
+Grand Admiral Thrawn: 7
+Emperor Palpatine: 7
+Darth Vader: 7
+Boba Fett: 7
+Royal Guard: 7
+IG-88: 7
+Captain Phasma: 7
+Stormtrooper: 6
+Grand Moff Tarkin: 7
+IG-86 Sentinel Droid: 7
+TIE Fighter Pilot: 6
+Kylo Ren: 5
+HK-47: 6
+Count Dooku: 4
+Darth Maul: 6
+Darth Sidious: 4
+Cad Bane: 4
+Talia: 4
+General Veers: 4
+Snowtrooper: 5
+First Order TIE Pilot: 4
+Geonosian Soldier: 3
+Nightsister Zombie: 4
+Nightsister Spirit: 4
+Kylo Ren (Unmasked): 3
+First Order Stormtrooper: 2
+Asajj Ventress: 3
+Savage Opress: 3
+Greedo: 3
+Sun Fac: 3
+Darth Nihilus: 3
+First Order Executioner: 3
+Sith Marauder: 3
+Darth Sion: 3
+Bossk: 3
+Range Trooper: 3
+IG-100 MagnaGuard: 2
+Nightsister Acolyte: 2
+Gar Saxon: 2
+First Order SF TIE Pilot: 2
+Magmatrooper: 1
+Nightsister Initiate: 1
+
+
+
+
+       SHIPS           
+xXDarkDiscipleXx
+TIE Advanced x1: 7
+Phantom II: 7
+Slave I: 7
+Scimitar: 7
+Ghost: 7
+Bistan's U-wing: 7
+Poe Dameron's X-wing: 7
+TIE Reaper: 5
+Wedge Antilles's X-wing: 7
+Imperial TIE Fighter: 7
+Biggs Darklighter's X-wing: 7
+Geonosian Soldier's Starfighter: 7
+Ahsoka Tano's Jedi Starfighter: 7
+Umbaran Starfighter: 7
+Cassian's U-wing: 7
+Sun Fac's Geonosian Starfighter: 7
+Kylo Ren's Command Shuttle: 5
+First Order TIE Fighter: 7
+Rex's ARC-170: 4
+Resistance X-wing: 5
+TIE Silencer: 7
+Jedi Consular's Starfighter: 7
+Gauntlet Starfighter: 7
+Sith Fighter: 3
+Clone Sergeant's ARC-170: 4
+Geonosian Spy's Starfighter: 3
+Plo Koon's Jedi Starfighter: 4
+Lando's Millennium Falcon: 3
+First Order SF TIE Fighter: 2
+Chimaera: 7
+Executrix: 6
+Home One: 7
+Endurance: 6
+Millennium Falcon (Ep VII): 0
+
+
+
+Johnniebee
+Millennium Falcon (Ep VII): 5
+TIE Advanced x1: 7
+Poe Dameron's X-wing: 7
+Wedge Antilles's X-wing: 7
+Slave I: 7
+Biggs Darklighter's X-wing: 7
+First Order TIE Fighter: 7
+TIE Silencer: 6
+Jedi Consular's Starfighter: 7
+Ahsoka Tano's Jedi Starfighter: 7
+Cassian's U-wing: 7
+Resistance X-wing: 7
+Imperial TIE Fighter: 7
+Umbaran Starfighter: 7
+Geonosian Soldier's Starfighter: 7
+Ghost: 4
+Clone Sergeant's ARC-170: 6
+Phantom II: 4
+Geonosian Spy's Starfighter: 7
+Scimitar: 4
+Sun Fac's Geonosian Starfighter: 4
+Lando's Millennium Falcon: 3
+Gauntlet Starfighter: 3
+Plo Koon's Jedi Starfighter: 4
+First Order SF TIE Fighter: 3
+Sith Fighter: 3
+Home One: 7
+Executrix: 6
+Endurance: 6
+Bistan's U-wing: 0
+Kylo Ren's Command Shuttle: 0
+Rex's ARC-170: 0
+TIE Reaper: 0
+Chimaera: 0
+
+
+
+Rwds
+TIE Advanced x1: 6
+Scimitar: 6
+Wedge Antilles's X-wing: 7
+Biggs Darklighter's X-wing: 7
+TIE Silencer: 7
+Umbaran Starfighter: 7
+First Order TIE Fighter: 7
+Imperial TIE Fighter: 7
+Jedi Consular's Starfighter: 7
+Phantom II: 6
+Millennium Falcon (Ep VII): 4
+Ghost: 6
+Cassian's U-wing: 6
+Rex's ARC-170: 4
+TIE Reaper: 5
+Slave I: 5
+Kylo Ren's Command Shuttle: 4
+Resistance X-wing: 3
+Poe Dameron's X-wing: 3
+Plo Koon's Jedi Starfighter: 6
+Clone Sergeant's ARC-170: 4
+Geonosian Soldier's Starfighter: 6
+Ahsoka Tano's Jedi Starfighter: 5
+First Order SF TIE Fighter: 2
+Gauntlet Starfighter: 2
+Chimaera: 6
+Executrix: 6
+Home One: 6
+Endurance: 6
+Bistan's U-wing: 0
+Geonosian Spy's Starfighter: 0
+Lando's Millennium Falcon: 0
+Sith Fighter: 0
+Sun Fac's Geonosian Starfighter: 0
+
+
+
+Dog
+TIE Silencer: 7
+Geonosian Soldier's Starfighter: 6
+First Order TIE Fighter: 4
+Jedi Consular's Starfighter: 6
+Wedge Antilles's X-wing: 4
+Biggs Darklighter's X-wing: 4
+Resistance X-wing: 2
+Scimitar: 3
+Clone Sergeant's ARC-170: 3
+Sun Fac's Geonosian Starfighter: 3
+Plo Koon's Jedi Starfighter: 4
+Imperial TIE Fighter: 2
+First Order SF TIE Fighter: 3
+Home One: 4
+Executrix: 4
+Endurance: 4
+Ahsoka Tano's Jedi Starfighter: 0
+Bistan's U-wing: 0
+Cassian's U-wing: 0
+Gauntlet Starfighter: 0
+Geonosian Spy's Starfighter: 0
+Ghost: 0
+Kylo Ren's Command Shuttle: 0
+Lando's Millennium Falcon: 0
+Millennium Falcon (Ep VII): 0
+Phantom II: 0
+Poe Dameron's X-wing: 0
+Rex's ARC-170: 0
+Sith Fighter: 0
+Slave I: 0
+TIE Advanced x1: 0
+TIE Reaper: 0
+Umbaran Starfighter: 0
+Chimaera: 0
+
+
+
+Sanis
+Ghost: 6
+Phantom II: 6
+Wedge Antilles's X-wing: 7
+Biggs Darklighter's X-wing: 7
+Umbaran Starfighter: 6
+Imperial TIE Fighter: 3
+Clone Sergeant's ARC-170: 4
+Jedi Consular's Starfighter: 5
+Resistance X-wing: 4
+First Order TIE Fighter: 2
+Geonosian Soldier's Starfighter: 2
+Ahsoka Tano's Jedi Starfighter: 4
+TIE Silencer: 1
+Lando's Millennium Falcon: 3
+Home One: 5
+Chimaera: 5
+Executrix: 4
+Endurance: 5
+Bistan's U-wing: 0
+Cassian's U-wing: 0
+First Order SF TIE Fighter: 0
+Gauntlet Starfighter: 0
+Geonosian Spy's Starfighter: 0
+Kylo Ren's Command Shuttle: 0
+Millennium Falcon (Ep VII): 0
+Plo Koon's Jedi Starfighter: 0
+Poe Dameron's X-wing: 0
+Rex's ARC-170: 0
+Scimitar: 0
+Sith Fighter: 0
+Slave I: 0
+Sun Fac's Geonosian Starfighter: 0
+TIE Advanced x1: 0
+TIE Reaper: 0
+
+
+
